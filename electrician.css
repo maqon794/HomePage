@@ -1,0 +1,93 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.menu-bar
+{
+    background-image: linear-gradient(to right, #0db7ed, #fff );
+}
+.nav-link
+{
+    font-size: 16px;
+    color: white!important;
+    margin: 2px;
+}
+#app-banner img
+{
+    width: 150px;
+    margin: 50px 0;
+}
+.rounded img
+{
+    border-radius: 50%;
+}
+table, tr, th, td{
+   
+    border-collapse: collapse;
+    width: 800px;
+   
+}
+h1{
+    margin: 0;
+    padding: 0;
+    font-size: 90px;
+    transition: 0.5s;
+    text-align: center;
+    color: skyblue;
+    
+}
+
+p{
+    text-align: center;
+}
+
+table{
+  background:#fff;
+    
+}
+
+table tr{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+   
+}
+a{
+   color: black;
+    text-decoration: none;
+    line-height: 20px;
+}
+a:hover{
+    background:  linear-gradient(to right, #0db7ed, #fff );
+    cursor: pointer;
+}
+h3{
+font-family: sans-serif;
+    font-size: 50px;
+        color:skyblue;
+}
+home{
+   
+    background: #000000;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, #0db7ed , #fff );
+    padding: 20px 0;
+}
+
+.footer a{
+    color: #000000;
+    text-decoration:inherit;
+}
+h2{
+    color: skyblue;
+}
+
+
+
+
+
